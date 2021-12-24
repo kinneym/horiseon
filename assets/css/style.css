@@ -4,7 +4,7 @@
     margin: 0;
 }
 
-/* General styles */
+/* Overall styles */
 body {
     background-color: #d9dcd6;
 }
@@ -128,13 +128,18 @@ header nav ul li {
 }
 
 /* footer */
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+footer h2 {
     font-size: 20px;
+    color: black;
+}
+
+footer p {
+    color: black;
 }
